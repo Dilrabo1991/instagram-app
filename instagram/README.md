@@ -1,12 +1,12 @@
 # Welcome to my project Instagram
-Welcome to my project <a href="https://soburjon-instagram.netlify.app">Instagram</a>
+Welcome to my project <a href="https://dilrabo-instagram.netlify.app">Instagram</a>
 # Demo
-<a href="https://soburjon-instagram.netlify.app">https://soburjon-instagram.netlify.app/</a>
+
+Netlify <a href="https://dilrabo-instagram.netlify.app">https://dilrabo-instagram.netlify.app/</a> <br/>
+
 # 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soburjon-daminov-807b41252)
-[![instagram](https://img.shields.io/badge/instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gafforiy_s/)
-[![telegram](https://img.shields.io/badge/telegram-002bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gafforiy_s/)
-[![facebook](https://img.shields.io/badge/facebook-002bff?style=for-the-badge&logo=facebook&logoColor=white)](https://t.me/gafforiy/)
+[![instagram](https://img.shields.io/badge/instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dilrabo_doniyorovna/)
+[![instagram](https://img.shields.io/badge/telegram-002bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Didi_Gold/)
 
 # Abilities 
 <ul>
@@ -37,12 +37,3 @@ Welcome to my project <a href="https://soburjon-instagram.netlify.app">Instagram
 <li>If a text post is large, then a glimpse of the post is shown and you can load more.</li>
 <li>Search users.</li>
 </ul>
-
-
-https://user-images.githubusercontent.com/95844073/208216364-1fe6ee0c-53a6-48b0-9f04-dfb38ddb67a2.MP4
-
-
-
-https://user-images.githubusercontent.com/95844073/208216458-cfd2e7a6-de6f-4a8c-9714-77ade3c39580.MP4
-
-
